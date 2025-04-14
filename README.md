@@ -1,9 +1,5 @@
 # 💻 Laptop Gender Reveal Party 🎉
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/laptop-gender-reveal-party)
-![GitHub top language](https://img.shields.io/github/languages/top/yourusername/laptop-gender-reveal-party)
-![Gender Reveal](https://img.shields.io/badge/gender-revealed-ff69b4)
-
 ## 🔎 What's This All About?
 
 Ever wondered if your laptop is secretly male or female? No? Well, you're about to find out anyway!
@@ -72,14 +68,6 @@ Evidence of this gender includes:
 written by a cat walking across a keyboard. No laptops were
 stereotyped during the making of this program. Well, maybe a little. ⚠️
 ```
-
-## 📱 Social Media Sharing Ideas
-
-When sharing this important scientific breakthrough, try these hashtags:
-- #LaptopGenderReveal
-- #TechHumor
-- #MyLaptopTalks
-- #ComputerScience (let's confuse actual computer scientists)
 
 ## ⚠️ Known Side Effects
 
