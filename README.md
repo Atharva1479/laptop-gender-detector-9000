@@ -26,7 +26,7 @@ This highly scientific* tool analyzes your computer's unique characteristics to 
 
 ```bash
 # Clone this ridiculous repository
-git clone https://github.com/yourusername/laptop-gender-reveal-party.git
+git clone https://github.com/Atharva1479/laptop-gender-detector-9000.git
 
 # Navigate to the directory
 cd laptop-gender-reveal-party
